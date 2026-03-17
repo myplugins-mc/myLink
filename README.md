@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/uHZq9Df.png" alt="myLink" width="80"/>
+<img src="https://mc-heads.net/avatar/MHF_Steve/100" alt="myLink" width="80"/>
 
 # myLink
 
@@ -24,7 +24,7 @@ Part of the **[myPlugins](https://myplugins.org)** ecosystem.
 ## ✨ Features
 
 - 🔗 **Account Linking** — Players link their Minecraft account to Discord with a simple code. Supports join gate to require linking before playing.
-- 💬 **Bidirectional Chat Bridge** — Sync chat between Minecraft and Discord with full webhook support, showing player skins via MCHeads.
+- 💬 **Bidirectional Chat Bridge** — Sync chat between Minecraft and Discord with full webhook support.
 - 🖥️ **Console Forwarding** — Execute server commands from a Discord channel. Destructive commands require confirmation. Shows the last 20 log lines after execution.
 - 🔄 **Bidirectional Group Sync** — LuckPerms groups and Discord roles stay in sync automatically. Native LuckPerms event API with command fallback for other permission plugins.
 - 🎨 **Modern Slash Commands** — `/link`, `/unlink`, `/profile` with rich embeds.
